@@ -1,9 +1,9 @@
-(defproject watch-amazon "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+(defproject watch-amazon "1.0.0"
+  :description "Watch Amazon for book prices."
+  :url "http://github.com/kisom/watch-amazon"
   :main watch-amazon.core
-  :license {:name "Eclipse Public License"
-	    :url "http://www.eclipse.org/legal/epl-v10.html"}
+  :license {:name "ISC License"
+	    :url "http://tyrfingr.is/licenses/LICENSE.ISC"}
   :dependencies [[org.clojure/clojure "1.5.1"]
 		 [enlive "1.1.1"]
 		 [hiccup "1.0.3"]

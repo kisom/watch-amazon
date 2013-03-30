@@ -1,0 +1,7 @@
+export MAIL_HOST="smtp.gmail.com"
+export MAIL_PORT="587"
+export MAIL_SSL="true"
+export MAIL_USER="colin@laney.net"
+export MAIL_PASS="secret secret"
+export MAIL_FROM="Amazon Watcher <colin@laney.net>"
+export MAILTO="blackwell@rei.net"
